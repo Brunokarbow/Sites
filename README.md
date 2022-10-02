@@ -1,3 +1,3 @@
 # Site de Forms
 
-<img src="imagens/foto.png">
+<img src="imagens/fundo.jpg">
