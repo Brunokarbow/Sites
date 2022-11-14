@@ -9,4 +9,7 @@
 
 <a href="https://brunokarbow.github.io/Sites/"> Clicke aqui para ver o site! </a>
 
-<img src="imagens/Screenshot_4.png" alt=" Foto da Página">
+<h1> Preview da Página! <h1>
+  
+![Screenshot_4](https://user-images.githubusercontent.com/96805693/201677860-052893a9-81f9-45a9-871f-955712434f1a.png)
+
